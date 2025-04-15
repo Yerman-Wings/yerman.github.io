@@ -16,8 +16,13 @@ th, td {
     text-align: left;
 }
 
-th {
-    background-color: #4CAF50;
+.html {
+    background-color: orange;
+    color: white;
+}
+
+.css {
+    background-color: blue;
     color: white;
 }
 
